@@ -2,9 +2,9 @@
 
 The list below provides a number of things to implement on Caigo:
 
-1. Add support for starknet_estimateFee
+1. [x] Add support for starknet_estimateFee
 2. Add support for starknet_addInvokeTransaction
-3. Integrate test in Github Actions
+3. [x] Integrate test in Github Actions
 4. Add test and support for devnet on RPC
 5. Rely on reflect.DeepCompare to "snapshot" output and track changes
 6. Find whitelisted contract to test Deploy and Declare on mainnet
