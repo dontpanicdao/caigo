@@ -17,3 +17,5 @@ The list below provides a number of things to implement on Caigo:
 - [ ] Create Milestone and Project to manage the project
 - [ ] Implement tests for testnet and mainnet with the Gateway
 - [ ] Provide a release note and plan the version to come
+- [ ] Plan 15-min community calls every 2 weeks to help with the roadmap and
+  get some feedback.
